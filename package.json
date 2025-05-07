@@ -16,10 +16,13 @@
     "node-schedule": "^2.1.1",
     "passport": "^0.6.0",
     "passport-google-oauth20": "^2.0.0",
-    "passport-twitter": "^1.1.0",
+    "passport-twitter": "^1.0.4",
     "passport-reddit": "^1.0.1"
   },
   "devDependencies": {
     "nodemon": "^2.0.22"
   }
+  "engines": {
+  "node": "18.x"
+}
 }
